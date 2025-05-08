@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.conf
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build system
+/build/
+
+# Java
+*.class
+
+# H2 database (optional: if you store .mv.db or .h2.db files, but not needed for in-memory)
+*.mv.db
+*.h2.db
+
+# Other
+*.swp
+*.bak
+*.tmp
+
