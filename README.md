@@ -115,7 +115,6 @@ Also includes Maven wrapper files (`mvnw`, `.mvn/`) for portability.
 You can deploy this API using services like:
 
 - [⚙️ Railway](https://railway.app/)
-- [🐳 Docker](https://www.docker.com/)
 - [☁️ Heroku](https://www.heroku.com/) *(deprecated for free tier)*
 
 Steps (example for Railway):
